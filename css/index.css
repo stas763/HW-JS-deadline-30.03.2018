@@ -2,4 +2,6 @@
 html {
   color: green;
   font-family: 'Raleway', sans-serif;
+  max-width: 960px;
+  max-height: 1500px;
 }
